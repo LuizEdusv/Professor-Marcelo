@@ -1,0 +1,84 @@
+#mario{
+    width: 200px;
+    position: absolute;
+    left: 800px;
+}
+#figure{
+    background-color: #3082A7;
+
+}
+body{
+    background-color: #48CCFC;
+ }
+
+  #content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+input[type="text"], input[type="password"] {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+    border: none;
+    width: 200px;
+    font-size: 16px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+ }
+ #botão{
+    width: 210px;
+    height: 25px;
+    background-color: green;
+    color: white;
+    border: 0;
+ }
+ fieldset{
+    background-color: #6689b4;
+}
+#esqueci{
+    position: relative;
+    color: white;
+}
+#cadastrado{
+    position: relative;
+    color: white;
+    left: 40px;
+}
+
+#cadastrar{
+    background-color: green;
+    width: 210px;
+    height: 25px;
+    border: 0;
+}
+#cancelar{
+    width: 210px;
+    height: 25px;
+    background-color: red;
+    position: relative;
+    top: 8px;
+    border: 0;
+}
+h4{
+    position: relative;
+    left: 25px;
+    color: white;
+}
+#enviar{
+    width: 210px;
+    height: 25px;
+    background-color: green;
+    color: white;
+    border: 0;
+}
+#país{
+    width: 210px;
+    height: 33px;
+}
